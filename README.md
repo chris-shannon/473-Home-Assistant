@@ -3,13 +3,13 @@
 Member 1: Christopher Shannon 301540245 
 	File: placeholder.py
 
-Member 2: ____________________ 
-	File:
+Member 2: Shobhit Semwal 301566505
+	File: condition.py
 
 Member 3: ____________________ 
 	File:
 
-
+Original Repo: https://github.com/home-assistant
 
 
 ### `original_source/`
